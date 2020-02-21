@@ -4,3 +4,4 @@ https://medium.com/@vanshikaa937/a-complete-guide-to-accessibility-service-part-
 https://medium.com/mindorks/a-complete-guide-to-accessibility-service-part-2-ec2bf4b693b1
 http://umeshisran4android.blogspot.com/2015/11/how-to-readparse-ussd-messages.html
 https://stackoverflow.com/questions/22057625/prevent-ussd-dialog-and-read-ussd-response
+https://www.simplifiedcoding.net/android-service-example/
